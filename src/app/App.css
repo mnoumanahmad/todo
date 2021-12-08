@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+ .tasks-div {
+   background-color: #f5f5f5;
+ }
+
+ .tasks-div > .row {
+  width: 90%;
+  margin: auto;
+}
+
+ .d-flex {
+   background-color: #3252b3 !important;
+   color: white;
+   background: #eee;
+  box-shadow: 0 8px 8px -4px lightblue;
+ }
+
+.col-12 {
+  /*border: 1px solid red;*/
+  text-align: left;
+}
+
+.col-12 p {
+  display: inline;
+  margin-left: 5%;
+}
+
+.float-right {
+  float: right;
+}
+
+.operations > svg {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.col-12.mb-4 .checkIcon {
+  cursor: pointer;
+}
